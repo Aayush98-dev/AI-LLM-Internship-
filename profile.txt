@@ -1,0 +1,8 @@
+Name: Ayush Singh
+Email: ayush@example.com
+Education: B.Tech CSE
+Skills:
+- Python
+- MongoDB
+- HTML
+Project: Blog Website
